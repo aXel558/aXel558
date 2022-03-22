@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Raul.
 - 👀 I’m interested in Coding, Gaming and having fun!
-- 🌱 I’m currently learning css, html, javascrip and php.
+- 🌱 I’m currently learning css, html, javascript and php.
 - 📫 How to reach me? DM me.
